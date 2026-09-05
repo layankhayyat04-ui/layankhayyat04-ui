@@ -9,12 +9,6 @@
 </div>
 
 <p align="center">
-  📍 Amman, Jordan &nbsp;·&nbsp; 🎓 PSUT, King Talal School of Business Technology
-</p>
-
-<p align="center">
-  <a href="https://layan-portfolio-axd.pages.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:layankhayyat04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=layankhayyat04-ui&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS"/>
 </p>
 
