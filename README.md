@@ -1,56 +1,123 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2C5364&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Layan+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="0" height="0"/>
+
+# ⚡ Layan Khayyat
+
+### Full-Stack Developer &nbsp;·&nbsp; BI &amp; Data Analyst
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=BIT+Student+%E2%80%94+Graduating+2027;Building+full-stack+apps+with+React+%2B+Angular;Turning+raw+data+into+decisions+with+Power+BI+%2B+SQL;Currently+architecting+a+clinic+ERP+system+from+scratch" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00D9FF"/>
+<img src="https://komarev.com/ghpvc/?username=layankhayyat04-ui&style=for-the-badge&color=00D9FF&labelColor=0D1117&label=VISITORS"/>
+
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/layankhayyat04-ui/layankhayyat04-ui/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-?style=flat-square&color=00D9FF" width="100%" height="3"/>
+
+## 🧬 &nbsp;About
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+I build full-stack web applications and analyze data to drive business decisions. My work spans two connected tracks that constantly inform each other: shipping real products end-to-end, and mining data for the insights that shape what gets built next.
+
+&nbsp;
+
+🔨 &nbsp;Currently architecting an **ERP system from scratch** for a private medical clinic — patient records, scheduling, and admin workflows, end-to-end
+
+📚 &nbsp;Studying **Business Information Technology** at PSUT, graduating 2027
+
+💬 &nbsp;Ask me about **Power BI, DAX, React/Angular architecture, or clinic-system design**
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="110"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-?style=flat-square&color=FF6B6B" width="100%" height="3"/>
+
+## 🚀 &nbsp;Featured Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">🏥</h3>
+<h3 align="center"><a href="https://github.com/layankhayyat04-ui/drsadi-clinic">drsadi-clinic</a></h3>
+<p align="center">Bilingual (AR/EN) clinic website — the foundation of a full clinic ERP in progress</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6C7086&center=true&vCenter=true&width=650&lines=BIT+Student+%E2%80%94+Graduating+2027;Full-Stack+Developer+%C2%B7+React+%2F+Angular+%2F+Flutter;BI+%26+Data+Analyst+%C2%B7+Power+BI+%2F+SQL+%2F+Python" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </p>
-
+</td>
+<td width="33%" valign="top">
+<h3 align="center">🏢</h3>
+<h3 align="center"><a href="https://github.com/layankhayyat04-ui/bms-dashboard">bms-dashboard</a></h3>
+<p align="center">Live Building Management dashboard — custom SVG gauges, zero charting libraries</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=layankhayyat04-ui&style=flat-square&color=2C5364&label=profile+views"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
 </p>
-
+</td>
+<td width="33%" valign="top">
+<h3 align="center">📊</h3>
+<h3 align="center"><a href="https://github.com/layankhayyat04-ui/ecommerce-sql-python-analysis">ecommerce-analysis</a></h3>
+<p align="center">12,000+ orders analyzed — revenue, retention & delivery-performance insights</p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/layankhayyat04-ui/layankhayyat04-ui/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
+</td>
+</tr>
+</table>
 
----
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-?style=flat-square&color=F2C811" width="100%" height="3"/>
 
-I build full-stack web applications and analyze data to drive business decisions. My work spans two connected tracks: shipping real products with React, Angular, and Flutter, and turning raw data into decisions with Power BI, SQL, and Python.
+## 🛠️ &nbsp;Tech Arsenal
 
-- 🔨 Currently building **[drsadi-clinic](https://github.com/layankhayyat04-ui/drsadi-clinic)**, a clinic website that's evolving into a full ERP system
-- 📊 Also maintaining **[bms-dashboard](https://github.com/layankhayyat04-ui/bms-dashboard)**, a live Building Management dashboard with custom SVG gauges
-- 📈 Analyzed 12,000+ orders in **[ecommerce-sql-python-analysis](https://github.com/layankhayyat04-ui/ecommerce-sql-python-analysis)** to uncover revenue & retention patterns
-- 🎓 Learning: advanced SQL, TypeScript patterns, and dashboard design
-- 💬 Ask me about: Power BI, React/Angular, or clinic-system architecture
+<div align="center">
 
-**Languages and Tools:**
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<p>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
-</p>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
----
+<br/><br/>
 
-### Featured Projects
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-| | | |
-|---|---|---|
-| **[drsadi-clinic](https://github.com/layankhayyat04-ui/drsadi-clinic)** | Bilingual clinic website | `React` `Vite` `Supabase` |
-| **[bms-dashboard](https://github.com/layankhayyat04-ui/bms-dashboard)** | Live BMS dashboard, custom SVG | `Angular` `TypeScript` `RxJS` |
-| **[ecommerce-sql-python-analysis](https://github.com/layankhayyat04-ui/ecommerce-sql-python-analysis)** | 12k+ orders, revenue/retention analysis | `SQL` `Python` `Pandas` |
+</div>
+
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-?style=flat-square&color=B7178C" width="100%" height="3"/>
+
+<div align="center">
+
+### 📈 Let's build something data-driven.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6C7086&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!" alt="footer"/>
+
+</div>
