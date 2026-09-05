@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-?style=flat-square&color=00D9FF" width="100%" height="3"/>
+<img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-?style=flat-square&color=00D9FF" width="100%" height="3"/>
 
 <details open>
 <summary><h2>🧬 &nbsp;About</h2></summary>
@@ -71,32 +71,54 @@ My path started with front-end and full-stack development — building real, usa
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
-<h3 align="center">🏥</h3>
-<h3 align="center"><a href="https://github.com/layankhayyat04-ui/drsadi-clinic">drsadi-clinic</a></h3>
-<p align="center">Bilingual (AR/EN) clinic website — the foundation of a full clinic ERP in progress</p>
-<p align="center">
+<td width="33%" valign="top" align="center">
+
+<h3>🏥</h3>
+<h3><b>drsadi-clinic</b></h3>
+
+<img src="https://img.shields.io/badge/🔒_Private-6C7086?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🟡_In_Progress-F2C811?style=flat-square&labelColor=0D1117"/>
+
+<p>Bilingual (AR/EN) clinic website — the foundation of a full clinic ERP in progress</p>
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-</p>
+
 </td>
-<td width="33%" valign="top">
-<h3 align="center">🏢</h3>
-<h3 align="center"><a href="https://github.com/layankhayyat04-ui/bms-dashboard">bms-dashboard</a></h3>
-<p align="center">Live Building Management dashboard — custom SVG gauges, zero charting libraries</p>
-<p align="center">
+<td width="33%" valign="top" align="center">
+
+<h3>🏢</h3>
+<h3><b>bms-dashboard</b></h3>
+
+<img src="https://img.shields.io/badge/🟢_Live-2ea44f?style=flat-square&labelColor=0D1117"/>
+
+<p>Live Building Management dashboard — custom SVG gauges, zero charting libraries</p>
+
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
-</p>
+
+<br/><br/>
+
+[![View Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/layankhayyat04-ui/bms-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://bms-dashboard-ochre.vercel.app)
+
 </td>
-<td width="33%" valign="top">
-<h3 align="center">📊</h3>
-<h3 align="center"><a href="https://github.com/layankhayyat04-ui/ecommerce-sql-python-analysis">ecommerce-analysis</a></h3>
-<p align="center">12,000+ orders analyzed — revenue, retention & delivery-performance insights</p>
-<p align="center">
+<td width="33%" valign="top" align="center">
+
+<h3>📊</h3>
+<h3><b>ecommerce-analysis</b></h3>
+
+<img src="https://img.shields.io/badge/✅_Complete-2ea44f?style=flat-square&labelColor=0D1117"/>
+
+<p>12,000+ orders analyzed — revenue, retention & delivery-performance insights</p>
+
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
+
+<br/><br/>
+
+[![View Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/layankhayyat04-ui/ecommerce-sql-python-analysis)
+
 </td>
 </tr>
 </table>
