@@ -54,12 +54,3 @@ I build full-stack web applications and analyze data to drive business decisions
 | **[drsadi-clinic](https://github.com/layankhayyat04-ui/drsadi-clinic)** | Bilingual clinic website | `React` `Vite` `Supabase` |
 | **[bms-dashboard](https://github.com/layankhayyat04-ui/bms-dashboard)** | Live BMS dashboard, custom SVG | `Angular` `TypeScript` `RxJS` |
 | **[ecommerce-sql-python-analysis](https://github.com/layankhayyat04-ui/ecommerce-sql-python-analysis)** | 12k+ orders, revenue/retention analysis | `SQL` `Python` `Pandas` |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layankhayyat04-ui&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2C5364&icon_color=2C5364&text_color=333" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layankhayyat04-ui&layout=compact&theme=default&hide_border=true&title_color=2C5364&text_color=333" height="165"/>
-</p>
