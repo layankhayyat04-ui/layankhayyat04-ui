@@ -1,0 +1,64 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#0F2438;#0D1117" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#132743">
+        <animate attributeName="stop-color" values="#132743;#0D3B4F;#132743" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#0F2438;#0D1117" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="100%" stop-color="#7C5CFF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#bg)"/>
+
+  <g opacity="0.15">
+    <circle cx="60" cy="40" r="1.5" fill="#00D9FF"/>
+    <circle cx="120" cy="80" r="1.5" fill="#00D9FF"/>
+    <circle cx="900" cy="50" r="1.5" fill="#7C5CFF"/>
+    <circle cx="940" cy="200" r="1.5" fill="#00D9FF"/>
+    <circle cx="80" cy="220" r="1.5" fill="#7C5CFF"/>
+    <circle cx="950" cy="120" r="1.5" fill="#00D9FF"/>
+  </g>
+
+  <circle cx="500" cy="130" r="3" fill="#00D9FF" opacity="0.8">
+    <animateMotion dur="8s" repeatCount="indefinite"
+      path="M 0,0 C 200,-60 350,60 480,-10 C 600,-60 700,50 480,10 Z"/>
+  </circle>
+
+  <text x="90" y="150" font-family="Fira Code, monospace" font-size="60" fill="#00D9FF" opacity="0.25">&lt;</text>
+  <text x="880" y="150" font-family="Fira Code, monospace" font-size="60" fill="#7C5CFF" opacity="0.25">/&gt;</text>
+
+  <text x="500" y="120" font-family="Fira Code, monospace" font-size="54" font-weight="700"
+        fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)">
+    Layan Khayyat
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="500" y="160" font-family="Fira Code, monospace" font-size="20" fill="#8B949E" text-anchor="middle">
+    Full-Stack Developer  ·  BI &amp; Data Analyst
+  </text>
+
+  <rect x="380" y="178" width="240" height="3" rx="1.5" fill="url(#textGrad)">
+    <animate attributeName="width" values="0;240;240" dur="1.6s"/>
+    <animate attributeName="x" values="500;380;380" dur="1.6s"/>
+  </rect>
+
+  <g font-family="Fira Code, monospace" font-size="14" fill="#6C7086">
+    <text x="500" y="215" text-anchor="middle">React · Angular · Flutter · Power BI · SQL · Python</text>
+  </g>
+</svg>
